@@ -11,7 +11,7 @@ and production-oriented machine learning systems.
 
 ## Featured project
 
-### Cross-Language Arabic Plagiarism Detection
+### Cross-Language Plagiarism Detection
 
 An end-to-end plagiarism-detection pipeline combining:
 
